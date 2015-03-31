@@ -30,6 +30,6 @@ Usage of ./white-noise-generator:
 ```
 
 ### See also
-https://github.com/cryptix/wav - A library for Go to read and write wav files.
-http://mynoise.net - A website to generate all kinds of sounds (including white noise)
-https://en.wikipedia.org/wiki/White_noise - The Wikipedia article about white noise
+* https://github.com/cryptix/wav - A library for Go to read and write wav files.
+* http://mynoise.net - A website to generate all kinds of sounds (including white noise)
+* https://en.wikipedia.org/wiki/White_noise - The Wikipedia article about white noise
