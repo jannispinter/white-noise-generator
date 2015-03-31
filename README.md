@@ -10,16 +10,19 @@ This generator uses random numbers of a CSPRNG to generate white noise.
 ```sh
 git clone https://github.com/jannispinter/white-noise-generator.git
 cd white-noise-generator
-go get && go build```
+go get && go build
+```
 
 ### Usage
 You can execute the program with it's default options:
 ```sh
-./white-noise-generator```
+./white-noise-generator
+```
 A file named "white_noise.wav" will be written into your current working directory.
 
 To change the default options, use these switches:
-```Usage of ./white-noise-generator:
+```
+Usage of ./white-noise-generator:
   -bits=32: Sample rate
   -duration=60: Duration in seconds
   -filename="white_noise.wav": Output file name
